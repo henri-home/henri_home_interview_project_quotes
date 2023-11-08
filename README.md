@@ -32,4 +32,4 @@ Thank you for taking the time to complete this project. We are excited that you 
 
 * Create a pull request when the project is complete.
 
-* Host on Heroku and send us the URL and github pull request url.
+* Send us the Github pull request url. Please make sure it is public.
